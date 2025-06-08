@@ -1,5 +1,5 @@
 # Henrik Hansen Stormyhr's Master's Theis Repository
-This repository contains the code and supplementary materials used in Henrik Hansen Stormyhr's Master's thesis called "A comparative analysis of MOS-LQO algorithms for perceptual transparency testing in audio steganography"
+This repository contains the code and supplementary materials used in Henrik Hansen Stormyhr's Master's thesis called "A comparative analysis of MOS-LQO algorithms for perceptual transparency testing in audio steganography".
 
 ## References:
 The references for the code presented in this repository can be found below.
