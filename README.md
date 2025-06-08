@@ -24,11 +24,9 @@ graphy Method Based on GAN, Jul. 2019. DOI: 10.48550/arXiv.1907.
 
 "ludlows" PESQ Python wrapper [1] is used for the PESQ Code. Microsoft Copilot [2] is used together with the documentation in [1] to create the code.
 
-[1] ludlows, GitHub- ludlows/PESQ at v0.0.4, en, May 2019. [Online]. Avail
-able: https://github.com/ludlows/PESQ
+[1] ludlows, GitHub- ludlows/PESQ at v0.0.4, en, May 2019. [Online]. Available: https://github.com/ludlows/PESQ
 
-[2] Microsoft_Corporation, Microsoft Copilot: Your AI companion, en-us. [On
-line]. Available: https://copilot.microsoft.com
+[2] Microsoft_Corporation, Microsoft Copilot: Your AI companion, en-us. [Online]. Available: https://copilot.microsoft.com
 
 ### R Correlation Code
 
@@ -37,15 +35,14 @@ This [1] YouTube tutorial was used to understand Pearson's Correlation in R, and
 [1] S. Bradburn, How To Perform A Pearson Correlation Test In R, Mar.
  2020. [Online]. Available: https://www.youtube.com/watch?v=2J_ZlxLeuQU
 
-[2] Microsoft_Corporation, Microsoft Copilot: Your AI companion, en-us. [On
-line]. Available: https://copilot.microsoft.com
+[2] Microsoft_Corporation, Microsoft Copilot: Your AI companion, en-us. [Online]. Available: https://copilot.microsoft.com
 
 ### SNR Code
 
 The SNR code was almost entirely based on Reyer's SNR code [1], made in connection with their thesis [2].
 
 [1] P. M. Reyers, Steganography-analysis/compute_transparency.py at main,
- en, Jun.2023.[Online].Available: https://github.com/MatthijsReyers/steganography-analysis/blob/main/compute_transparency.py
+ en, Jun.2023.[Online]. Available: https://github.com/MatthijsReyers/steganography-analysis/blob/main/compute_transparency.py
 
 [2] P. M. Reyers, A comparative analysis of audio steganography methods and
  tools, Publisher: University of Twente, Jul. 2023. [Online]. Available: https://essay.utwente.nl/95988/
