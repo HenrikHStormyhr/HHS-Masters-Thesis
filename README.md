@@ -35,8 +35,7 @@ line]. Available: https://copilot.microsoft.com
 This [1] YouTube tutorial was used to understand Pearson's Correlation in R, and Microsoft CoPilot [2] was used to generate almost all of the code.
 
 [1] S. Bradburn, How To Perform A Pearson Correlation Test In R, Mar.
- 2020. [Online]. Available: https://www.youtube.com/watch?v=2J_
- ZlxLeuQU (visited on 30/05/2025).
+ 2020. [Online]. Available: https://www.youtube.com/watch?v=2J_ZlxLeuQU
 
 [2] Microsoft_Corporation, Microsoft Copilot: Your AI companion, en-us. [On
 line]. Available: https://copilot.microsoft.com
@@ -46,13 +45,10 @@ line]. Available: https://copilot.microsoft.com
 The SNR code was almost entirely based on Reyer's SNR code [1], made in connection with their thesis [2].
 
 [1] P. M. Reyers, Steganography-analysis/compute_transparency.py at main,
- en, Jun.2023.[Online].Available:https://github.com/MatthijsReyers/
- steganography-analysis/blob/main/compute_transparency.py (vis
-ited on 23/05/2025).
+ en, Jun.2023.[Online].Available: https://github.com/MatthijsReyers/steganography-analysis/blob/main/compute_transparency.py
 
 [2] P. M. Reyers, A comparative analysis of audio steganography methods and
- tools, Publisher: University of Twente, Jul. 2023. [Online]. Available: https:
- //essay.utwente.nl/95988/
+ tools, Publisher: University of Twente, Jul. 2023. [Online]. Available: https://essay.utwente.nl/95988/
 
 ### TAN Method Code
 
@@ -61,5 +57,4 @@ The TAN method code was implemented from this paper [1]. This paper contains mis
 [1] M. T. Elkandoz and W. Alexan, ‘Logistic Tan Map Based Audio Stegano
 graphy,’ in 2019International Conference on Electrical and Computing Tech
 nologies and Applications (ICECTA), Nov. 2019, pp. 1–5. DOI: 10.1109/
- ICECTA48151.2019.8959683. [Online]. Available: https://ieeexplore.
- ieee.org/document/8959683
+ ICECTA48151.2019.8959683. [Online]. Available: https://ieeexplore.ieee.org/document/8959683
