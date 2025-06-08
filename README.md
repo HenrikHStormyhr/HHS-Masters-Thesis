@@ -49,9 +49,13 @@ The SNR code was almost entirely based on Reyer's SNR code [1], made in connecti
 
 ### TAN Method Code
 
-The TAN method code was implemented from this paper [1]. This paper contains mistakes which our thesis solves.
+The TAN method code was implemented from this paper [1]. This paper contains mistakes which our thesis solves. Microsoft Copilot [2] and OpenAI ChatGPT [3] was used to generate a lot of the code. 
 
 [1] M. T. Elkandoz and W. Alexan, ‘Logistic Tan Map Based Audio Stegano
 graphy,’ in 2019International Conference on Electrical and Computing Tech
 nologies and Applications (ICECTA), Nov. 2019, pp. 1–5. DOI: 10.1109/
  ICECTA48151.2019.8959683. [Online]. Available: https://ieeexplore.ieee.org/document/8959683
+
+ [2] Microsoft_Corporation, Microsoft Copilot: Your AI companion, en-us. [Online]. Available: https://copilot.microsoft.com
+
+ [3] OpenAI, IntroducingChatGPT, en-US, Nov.2022. [Online]. Available: https://openai.com/index/chatgpt/ 
